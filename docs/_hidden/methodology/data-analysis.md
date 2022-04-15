@@ -3,6 +3,7 @@ layout: default
 nav_order: 8
 title: Data Analysis
 parent: Methodology
+nav_exclude: true
 ---
 
 # Data Analysis

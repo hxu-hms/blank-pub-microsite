@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Related Publications
+nav_exclude: true
 nav_order: 70
 ---
 
