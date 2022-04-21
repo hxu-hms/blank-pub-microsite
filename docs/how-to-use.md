@@ -17,8 +17,8 @@ title: How to use this website
 
     **First time users should start with Protocol to learn how to use YOUR METHOD**
 
-3. [Method details](./method-details.md) provides detailed documentation on the method. 
+3. [Method details](./method-details/method-details.md.md) provides detailed documentation on the method. 
 
     [//]: # Method details hosts extra inforamtion that helps the learner *understand* your method on a deeper level. This understanding will allow them to execute steps with more purpose, troubleshoot with reletive ease and adapt your method to answer their unique research question(s).
     
-    - [FAQs](./faqs.md) lists common troubleshooting scenarios and their recommended solutions. 
+    - [FAQs](./method-details/faqs.md) lists common troubleshooting scenarios and their recommended solutions. 

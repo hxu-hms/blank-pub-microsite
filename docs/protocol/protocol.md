@@ -36,7 +36,7 @@ NOTE: Tell the learner if this step is critible, a possible pause point or if th
 
 {: .fs-3 }
 {: .fw-300 }
-For example, you can link to a [question in FAQs](../faqs.md) or more details on this step in [method details](../method-details.md).
+For example, you can link to a [question in FAQs](../method-details/faqs.md) or more details on this step in [method details](../method-details/method-details.md).
 
 ## Step 2:  Use an imperitive sentence to briefly describe \step
 
