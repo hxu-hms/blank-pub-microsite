@@ -2,9 +2,19 @@
 layout: default
 nav_order: 5
 title: FAQs
-parent: Technical references
+parent: Method details
 ---
 # Frequently Asked Questions
+{:.no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+  - TOC
+{:toc}
+</details>
 
 FAQs page provide problem-based troubleshooting help for users. 
 
@@ -12,4 +22,4 @@ FAQs page provide problem-based troubleshooting help for users.
 
 ## Q1: I see *this result* instead of the one presented in Protocols. Why?
 
-## A: Most likely reasons are... Try these things to rule out...
+**A:** Most likely reasons are... Try these things to rule out...

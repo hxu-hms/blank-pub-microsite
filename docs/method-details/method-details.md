@@ -1,20 +1,35 @@
 ---
 layout: default
 nav_order: 4
-title: Technical references
+title: Method details
 has_children: true
 ---
-# Technical References
+# Method Details
+{:.no_toc }
 
-Technical reference are detailed information on the method that allows someone else to adapt it to their own research. 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+  1. TOC
+{:toc}
+</details>
 
-For a computational method, this section would include usage information, required arguments, optional arguments, as well as input and output of the program. 
+[\\]: # Provide information here that will help the learners understand your method on a deeper level. 
 
-For an experimental method, this section may house the following broad category of information. *Some of these may not apply to your method; other important information may not be listed here. Please make sure to adapt this section to your need.*
+[\\]: # For example, why was this antibody chosen? What others can you use instead? Is the washing step necessary? How to store the sample when you need to leave it alone for 2 hours? What about 2 days?
 
-## Common Adjustments
+[\\]: # Content in this section is method-dependent. It is also meant to be an evolving document that will likely expand as more people learn your method.
+
+[\\]: # These are examples of what you could include:
+
+## Common Adjustments 
 
 Scaling up or down the experiment
 
 Using a different set of dye/antibody/etc.
 
+## Sample Storage
+
+## Antibody Panel Design
