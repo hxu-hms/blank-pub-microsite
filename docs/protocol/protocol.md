@@ -42,4 +42,11 @@ For example, you can link to a [question in FAQs](../method-details/faqs.md) or 
 
 Elaborate on this step. 
 
-## Step n:  
+## Step n:  Confirm results (quality control)
+
+At the end of this process, your results should look something like those in the [example data](dataset.md).
+
+Look for these features to confirm that everything has gone according to protocol. 
+
+{: .fw-300 }
+If you run into A, B or C, refer to [FAQs](../method-details/faqs.md) for troubleshooting help.
