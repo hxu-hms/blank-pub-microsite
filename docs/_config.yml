@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blank Publication Microsite
+title: Blank Method Microsite
 description: >- # this means to ignore newlines until "logo:"
-  A blank website with the LSP/HiTS custom style template 
+  A blank template designed for a website dedicated to your method, with the LSP/HiTS custom style template 
 logo: "/assets/images/blank-microsite-logo.png"
 hero_background: "/assets/images/hero_background.jpg"
 
@@ -49,7 +49,7 @@ license:
 footer_logos:
   - name: "Laboratory of Systems Pharmacology"
     image: "assets/images/logo_lsp_white.svg" # this is stored in the remote theme's repo
-    url: "https://hits.harvard.edu/the-program/laboratory-of-systems-pharmacology/about/"
+    url: "https://labsyspharm.org/"
   - name: "Harvard Medical School"
     image: "/assets/images/logo_hms.svg" # this is stored in the remote theme's repo
     url: "https://hms.harvard.edu/"

@@ -5,6 +5,7 @@ title: Overview
 has_children: true
 ---
 # Overview
+{:.no_toc }
 
 [\\]: # Overview provides context for the method. After reading this section, viewers should have an idea of what your method offers and if it may work for them.
 
@@ -14,8 +15,6 @@ has_children: true
 [\\]: # - Briefly, how does it work in theory? 
 [\\]: # - Why is this method good? 
 [\\]: # - What problems does this method solve?
-
-{:.no_toc }
 
 <details open markdown="block">
   <summary>

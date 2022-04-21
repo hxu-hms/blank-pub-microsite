@@ -5,7 +5,6 @@ title: Protocol
 has_children: true
 ---
 # Protocol
-
 {:.no_toc }
 
 <details open markdown="block">
@@ -29,7 +28,9 @@ has_children: true
 
 ## Step 1: Fix the cells
 
-Add 250 $\mu$ l of 4% Paraformaldehyde into the well...
+Add 250 &#956;l of 4% Paraformaldehyde into the well...
+
+[\\]: # '&#956;' renders the greek letter mu. To see the complete list of greek letters that GitHub will recognize, here is the link: https://gist.github.com/mrquincle/1102e58562411b7f633c08d5dc9a2e1f. (on the linked page, click "Raw" to see the corresponding markdown code)
 
 {: .fw-300 }
 NOTE: Tell the learner if this step is critible, a possible pause point or if there are more explanation elsewhere on this site that may be relavent.

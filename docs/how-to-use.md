@@ -9,7 +9,7 @@ title: How to use this website
 
 1. [Overview](./overview.md) provides relevant background information on YOUR METHOD.
 
-2. [Protocol](./protocol.md) outlines a step-by-step guide for beginners to execute YOUR METHOD. 
+2. [Protocol](./protocol/protocol.md) outlines a step-by-step guide for beginners to execute YOUR METHOD. 
 
     [//]: # We recommend providing example dataset or expected outcome for major steps for learners to confirm their progress. 
 
