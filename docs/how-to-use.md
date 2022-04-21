@@ -13,6 +13,8 @@ title: How to use this website
 
 **First time users should start with Protocol to learn how to use this method**
 
-3. [Technical Referece](./technical-reference.md) provides detailed documentation on the method. Different from Protocol, which showcases **one** way to use the method, technical reference provides the information another researcher would need to customize the method and adopt it into their own research. 
+3. [Technical References](./technical-reference.md) provides detailed documentation on the method. Different from Protocol, which showcases **one** way to use the method, technical reference provides the information another researcher would need to customize the method and adopt it into their own research. 
 
 Protocol allows someone to *repeat* your process, while technical reference should equipt someone to *adapt* your method.
+
+4. [FAQs](./faqs.md) lists common troubleshooting scenarios and their recommended solutions. 

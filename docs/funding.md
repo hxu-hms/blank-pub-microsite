@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Funding
-nav_order: 6
+nav_order: 7
 ---
 
 # Funding

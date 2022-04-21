@@ -1,9 +1,10 @@
 ---
 layout: default
 nav_order: 4
-title: Technical reference
+title: Technical references
+has_children: true
 ---
-# Technical Reference
+# Technical References
 
 Technical reference are detailed information on the method that allows someone else to adapt it to their own research. 
 
