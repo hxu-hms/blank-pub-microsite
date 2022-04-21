@@ -22,6 +22,8 @@ has_children: true
 
 [\\]: # Content in this section is method-dependent. It is also meant to be an evolving document that will likely expand as more people learn your method.
 
+[\\]: # You can also link out to other resources, instead of duplicating existing material. 
+
 [\\]: # These are examples of what you could include:
 
 ## Common Adjustments 

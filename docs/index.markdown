@@ -19,7 +19,7 @@ hero_ctas:
 
 # Key Features
 
-## Indexpensive
+## Inexpensive
 Elaborate on feature. e.g. Because of the x and y, you can use the minimum amount of reagent to achieve even staining.
 
 ## Catchy description
