@@ -11,7 +11,7 @@
 
 ## Using the template
 
-### 1. In your GitHub account, [import](https://github.com/new/import) "labsyspharm/blank-software-website" as a new repo
+### 1. In your GitHub account, [import](https://github.com/new/import) "labsyspharm/blank-software-website" as a new repo. Name your new repo with your website name.
 <br>
 
 ### 2. Edit files
@@ -25,17 +25,17 @@
 1. [Install Jekyll locally](https://jekyllrb.com/docs/installation/#requirements)
 <br>
   
-2. Clone the repo 
-- This will insert blank-method-microsite files into your current directory
+2. Clone your website's repo 
+- This will insert your website's files into your current directory
 - You can find the https link for your new repo on the green 'code' button on the main repo page
 ```
 $ git clone <https>
 ```
 <br>
 
-3. Navigate into the docs folder
+3. Navigate into the docs folder (replace 'your-website-name' with your repo's name)
 ```
-$ cd blank-method-microsite/docs/
+$ cd your-website-name/docs/
 ```
 <br>
 
@@ -57,6 +57,7 @@ $ bundle exec jekyll serve
 <br>
 
 #### Option 2: Online through GitHub
+
 1. To edit an existing page, open the markdown file and start editing it by clicking the pencil icon in the top right tool bar. You can commit these changes directly to your repo. 
 <br>
 
