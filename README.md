@@ -43,6 +43,7 @@ $ cd blank-method-microsite/docs/
 ```
 $ bundle install
 ```
+<br>
 
 5. Generate a local website to preview
 ```
