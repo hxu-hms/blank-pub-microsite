@@ -39,7 +39,12 @@ $ cd blank-method-microsite/docs/
 ```
 <br>
 
-4. Generate a local website to preview
+4. Install the necessary gems
+```
+$ bundle install
+```
+
+5. Generate a local website to preview
 ```
 $ bundle exec jekyll serve
 ```
@@ -47,7 +52,7 @@ $ bundle exec jekyll serve
 
 <br>
 
-5. You can now make edits to the website files locally using your favorite text editor. 
+6. You can now make edits to the website files locally using your favorite text editor. 
 <br>
 
 #### Option 2: Online through GitHub
