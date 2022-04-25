@@ -11,9 +11,15 @@
 
 ## Using the template
 
-### 1. [Import](https://github.com/new/import) "labsyspharm/blank-software-website" as a new repo. Set owner as labsyspharm*. Name your new repo with your website name.
+### 1. Copy the template into a new repo
+- [Import**](https://github.com/new/import) "labsyspharm/blank-software-website" as a new repo. 
+- Set the owner as labsyspharm\*
+- Name the new repo with your website name
 
-*\*Please set labsyspharm as the owner to allow us to keep track of all LSP related research websites and maintain it beyond your tenure in the lab. You can set your personal account as Admin to have the same level of control.*
+\* Please set labsyspharm as the owner to allow us to keep track of all LSP related research websites and maintain it beyond your tenure in the lab. 
+
+\*\* *If you want to host the website files within the same repo as your software, you can alternatively copy all files contained within the template `docs/` folder into your software repo.*  
+
 <br>
 
 ### 2. Edit files
